@@ -60,7 +60,7 @@ const Login = () => {
           </div>
 
           <p className="login-bottom-p">
-          Don't have an account? <Link to="/signup">Sign Up</Link>
+          Don't have an account? <Link to="/">Sign Up</Link>
           </p>
         </div>
       </div>
